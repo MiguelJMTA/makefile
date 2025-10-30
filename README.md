@@ -1,8 +1,8 @@
-# makefile
+# Sobre el makefile
 Un Makefile global reutilizable que simplifica los comandos más comunes de Git y Docker en todos tus proyectos. Elimina la necesidad de memorizar comandos complejos y estandariza tu flujo de trabajo de desarrollo.
 
 
-## ✨ Características
+## Características
 
 - **Comandos Git simplificados**: Push, pull, commit, sync y más con un solo comando
 - **Gestión de Docker**: Build, run, stop, clean y push de imágenes
@@ -13,7 +13,7 @@ Un Makefile global reutilizable que simplifica los comandos más comunes de Git 
 - **Output con colores**: Feedback visual para mejor experiencia de usuario
 - **Compatible con proyectos locales**: Sobrescribe variables por proyecto
 
-## 📦 Instalación
+## Instalación
 
 ### Opción 1: Makefile Global (Recomendado)
 
@@ -82,7 +82,7 @@ Simplemente copia el `Makefile` a la raíz de tu proyecto y úsalo directamente.
 | `h` | `help` | Ayuda |
 
 
-## 🚀 Uso
+## Uso
 
 ### Comandos Básicos
 
